@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 <<!--
-**samferrel/samferrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**samferrel/samferrel** is a ✨ _special_ ✨ repository
 
-Here are some ideas to get you started:
+Overview
 ##
 - 🔭 I’m currently working on a new start-up company in the residential HVAC industry
 - 🌱 I’m currently learning the basics of computer science and AI 
