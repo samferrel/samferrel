@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<<!--
 **samferrel/samferrel** is a ✨ _special_ ✨ repository
 
 Overview
